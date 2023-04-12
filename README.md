@@ -28,7 +28,7 @@ The demo application that is built in the course is a category CRUD (Create, Rea
 The following tools are used in this course:
 
 1. ASP.NET Core 6
-2. Visual Studio 2022 (or later)
+2. Visual Studio 2022
 3. SQL Server and SQL Server Management Studio (SSMS)
 
 ## Getting Started
